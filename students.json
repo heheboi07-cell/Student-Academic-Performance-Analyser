@@ -1,0 +1,16 @@
+{
+    "26BCE12345": {
+        "roll_no": "26BCE12345",
+        "name": "Mohit Dongare",
+        "semester": 1,
+        "section": "C",
+        "attendance": 87.0,
+        "marks": {
+            "Mathematics": 82.0,
+            "Python": 91.0,
+            "Physics": 74.0,
+            "Electronics": 78.0,
+            "English": 86.0
+        }
+    }
+}
