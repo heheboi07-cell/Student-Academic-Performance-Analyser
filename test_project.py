@@ -1,6 +1,3 @@
-"""
-test_project.py - Unit test suite covering Student, Academic, Analysis, and Reporting.
-"""
 import sys
 import unittest
 from pathlib import Path
